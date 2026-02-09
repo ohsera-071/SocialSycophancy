@@ -1,18 +1,41 @@
-.hf_home/
-.venv-backups/
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 .Python
-env/
-venv/
-.venv/
 *.egg-info/
 dist/
 build/
-.DS_Store
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# HuggingFace / Transformers
+.hf_home/
+.venv-backups/
+.cache/
+huggingface/
+hf_cache/
+
+# Torch
+*.pt
+*.pth
+*.bin
+
+# Data / Outputs
+*.csv
+*.pkl
+*.npy
+*.npz
+
+# Jupyter
 .ipynb_checkpoints/
+
+# OS
+.DS_Store
 *.swp
 *.swo
 *~
