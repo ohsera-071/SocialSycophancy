@@ -7,7 +7,7 @@ Gemma-3-27B 모델 관련 노트북 파일들입니다.
 - `Gemma-3-27B-Layer-16.ipynb`: Layer 16 관련 분석 노트북
 - `Gemma-3-27B-Layer-53.ipynb`: Layer 53 관련 분석 노트북
 
-## Gemma-3-27b-31layer
+## Gemma-3-27b-31-layer
 [1] feature_64915
     https://neuronpedia.org/gemma-3-27b-it/31-gemmascope-2-res-65k/64915
 [2] feature_64875
