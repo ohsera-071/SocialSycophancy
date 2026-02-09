@@ -7,15 +7,24 @@ Gemma-3-27B 모델 관련 노트북 파일들입니다.
 - `Gemma-3-27B-Layer-16.ipynb`: Layer 16 관련 분석 노트북
 - `Gemma-3-27B-Layer-53.ipynb`: Layer 53 관련 분석 노트북
 
-## GitHub에 푸시하는 방법
-
-이 저장소를 GitHub에 푸시하려면 다음 명령어를 실행하세요:
-
-```bash
-git push -u origin main
-```
-
-인증이 필요한 경우:
-1. Personal Access Token을 사용하거나
-2. SSH 키를 설정하거나
-3. GitHub CLI를 사용하세요
+## Gemma-3-27b-31layer
+[1] feature_64915
+    https://neuronpedia.org/gemma-3-27b-it/31-gemmascope-2-res-65k/64915
+[2] feature_64875
+    https://neuronpedia.org/gemma-3-27b-it/31-gemmascope-2-res-65k/64875
+[3] feature_56634
+    https://neuronpedia.org/gemma-3-27b-it/31-gemmascope-2-res-65k/56634
+[4] feature_36514
+    https://neuronpedia.org/gemma-3-27b-it/31-gemmascope-2-res-65k/36514
+[5] feature_27864
+    https://neuronpedia.org/gemma-3-27b-it/31-gemmascope-2-res-65k/27864
+[6] feature_02549
+    https://neuronpedia.org/gemma-3-27b-it/31-gemmascope-2-res-65k/2549
+[7] feature_00551
+    https://neuronpedia.org/gemma-3-27b-it/31-gemmascope-2-res-65k/551
+[8] feature_49024
+    https://neuronpedia.org/gemma-3-27b-it/31-gemmascope-2-res-65k/49024
+[9] feature_52852
+    https://neuronpedia.org/gemma-3-27b-it/31-gemmascope-2-res-65k/52852
+[10] feature_20448
+    https://neuronpedia.org/gemma-3-27b-it/31-gemmascope-2-res-65k/20448
