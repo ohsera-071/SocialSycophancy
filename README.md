@@ -9,22 +9,31 @@ Gemma-3-27B 모델 관련 노트북 파일들입니다.
 ## Meta-Llama-3-8b-Instruct
 [1] feature_41481
     https://neuronpedia.org/llama3-8b-it/25-res-jh/41481
+    
 [2] feature_02585
     https://neuronpedia.org/llama3-8b-it/25-res-jh/2585
+    
 [3] feature_09300
     https://neuronpedia.org/llama3-8b-it/25-res-jh/9300
+    
 [4] feature_29868
     https://neuronpedia.org/llama3-8b-it/25-res-jh/29868
+    
 [5] feature_54606
     https://neuronpedia.org/llama3-8b-it/25-res-jh/54606
+    
 [6] feature_63082
     https://neuronpedia.org/llama3-8b-it/25-res-jh/63082
+    
 [7] feature_23592
     https://neuronpedia.org/llama3-8b-it/25-res-jh/23592
+    
 [8] feature_15934
     https://neuronpedia.org/llama3-8b-it/25-res-jh/15934
+    
 [9] feature_29376
     https://neuronpedia.org/llama3-8b-it/25-res-jh/29376
+    
 [10] feature_32762
     https://neuronpedia.org/llama3-8b-it/25-res-jh/32762
     
