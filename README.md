@@ -34,8 +34,7 @@ Gemma-3-27B 모델 관련 노트북 파일들입니다.
 [9] feature_29376
     https://neuronpedia.org/llama3-8b-it/25-res-jh/29376
     
-[10] feature_32762 : expressions of apology or regret
-
+[10] feature_32762
     https://neuronpedia.org/llama3-8b-it/25-res-jh/32762
     
 ## Gemma-3-27b-31-layer
