@@ -1,6 +1,9 @@
 # Python
 __pycache__/
 *.py[cod]
+*.pyc
+*.pyo
+*.pyd
 *$py.class
 *.so
 .Python
@@ -44,13 +47,21 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Hugging Face
+# Hugging Face / Transformers
 .hf_home/
 .cache/
 models/
+huggingface/
+hf_cache/
 
-# Data files (uncomment if you don't want to track data)
-# *.csv
-# *.json
-# *.pkl
-# *.h5
+# Torch
+*.pt
+*.pth
+*.bin
+
+# Data / Outputs
+*.csv
+*.pkl
+*.npy
+*.npz
+*.h5
